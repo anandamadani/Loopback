@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongo": {
+    "host": "cluster0-vjlzv.mongodb.net",
+    "port": 0,
+    "url": "mongodb+srv://nanda:123@cluster0-vjlzv.mongodb.net/test?retryWrites=true",
+    "database": "test",
+    "password": "123",
+    "name": "mongo",
+    "user": "nanda",
+    "connector": "mongodb"
+  }
+}
